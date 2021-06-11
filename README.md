@@ -267,7 +267,7 @@ We've been using color names in our examples to keep it simple, but only a
 handful of color names are recognized by all browsers. When writing CSS, we'll
 be better off to use different ways of defining our colors.
 
-##### Hexidecimal Color Values
+#### Hexidecimal Color Values
 
 Most often developers use a set of numbers called hexadecimals, which represents
 a wide range of colors. Hex colors begin with `#` and are followed by,
